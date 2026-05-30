@@ -5,3 +5,5 @@ Hoongry is a **fictional** Indonesian fast-food delivery brand created for a Dat
 This project aims to analyze business performance from multiple perspectives, including sales growth, branch productivity, menu contribution, customer behavior, delivery performance, cancellation trends, customer satisfaction, and target vs actual sales achievement.
 
 The dataset is designed to reflect realistic business patterns such as lunch and dinner peaks, weekend demand, payday spikes, promotional impact, and national holiday seasonality.
+
+Notes: All of the datasets are dummy and generated ChatGPT
